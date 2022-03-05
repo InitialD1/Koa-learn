@@ -14,7 +14,7 @@ yarn init
 yarn add Koa
 ```
 
-## 3.编写服务程序
+## 编写服务程序
 
 编写`src/01_quickstart.js`
 
